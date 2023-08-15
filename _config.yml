@@ -1,0 +1,24 @@
+title: Saint Silva
+author: Ben Dexter Cooley
+subtitle: electronic music & sound
+
+url: "https://rahulbothra.com"
+baseurl: "/saint-silva"
+
+footer_only_homepage: true
+footer_url: "https://bdextercooley.com"
+footer_text: "saint silva"
+
+profile-picture: assets/profile.png
+favicon_location: assets/favicon.ico
+
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "About"
+   link: "about"
+ - name: "Shows"
+   link: "shows"
