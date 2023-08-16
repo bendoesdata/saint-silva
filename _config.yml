@@ -4,6 +4,7 @@ subtitle: electronic music & sound
 
 url: "https://saint-silva.netlify.app"
 baseurl: "/"
+posturl: "https://saint-silva.netlify.app/"
 
 footer_only_homepage: true
 footer_url: "https://bdextercooley.com"
