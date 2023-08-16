@@ -67,6 +67,7 @@ code {
         font-size: 32px;
         color: #272727;
         display: inline-block;
+        font-weight: 500;
     }
 }
 
@@ -79,6 +80,7 @@ code {
         color: #272727;
         display: inline-block;
         font-size: 30px;
+        font-weight: 300;
     }
     .details{
         @extend .pull-right;
