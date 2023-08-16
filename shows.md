@@ -5,15 +5,11 @@ title: Shows
 
 ## Upcoming
 
-### Mothership Art Market
+**Mothership Art Market**
 
+*Aug 20, 2023*  || 19 Church St. Burlington, VT
 
-
-|     |  |
-| -------- | ------- |
-| *Aug 20, 2023*  | 19 Church St. Burlington, VT    |
-
-Improvisational electronic performance at Mothership Art Market
+Improvisational electronic performance at Mothership Art Market.
 
 ## Past
 
