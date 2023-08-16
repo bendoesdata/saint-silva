@@ -5,7 +5,7 @@ subtitle: Liner notes for a Loud Numbers remix "End of the Road"
 tags: [note, release]
 ---
 
-Liner notes for a new data sonification remix of the episode "End of the Road" by Loud Numbers. | music | tree | high
+Liner notes for a new data sonification remix of the episode "End of the Road" by Loud Numbers.
 
 <!-- start main content -->
 
@@ -66,7 +66,7 @@ Your browser does not support the audio element.
 Whenever the percentage decline of insect abundance goes down 5% from the baseline (i.e. starting point in 1997), you will hear a resounding crash symbal like the one below.
 
 <audio controls>
-  <source src="../assets/audioloud_numbers/crash.wav" type="audio/wav">
+  <source src="../assets/audio/loud_numbers/crash.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 <br>
@@ -77,7 +77,7 @@ In addition to the intermittent crash, a kick drum and rim-shot will sound once 
 The key data point (number of insects) is captured by this weird synth patch I discovered called "Disintegration". This patch continues throughout the song and arpeggiates along an octave with some delay. At a basic level, higher notes represent higher numbers, which can be heard in the sample below. The final tones I landed on in this patch made me think of fluttering, struggling creatures in the sky.
 
 <audio controls>
-  <source src="../assets/audioloud_numbers/bugs-start.wav" type="audio/wav">
+  <source src="../assets/audio/loud_numbers/bugs-start.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 <br>
@@ -86,7 +86,7 @@ Your browser does not support the audio element.
 But across the entire song, I also mapped the trends of decline to additional parameters. Torwards the end of the song, the synth starts to "break up" a bit and sound more wobbly and broken, representing the frailty of ecosystems that can depend on even the tinest of creatures. This type of parameter mapping, while a bit harder to distinguish than "higher notes, higher numbers" brings more personality and emotion to the process of sonification. When the synth sounds like this, the total number of insects per month is either just above or at zero most of the time.
 
 <audio controls>
-  <source src="../assets/audioloud_numbers/bugs-end.wav" type="audio/wav">
+  <source src="../assets/audio/loud_numbers/bugs-end.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 <br>
@@ -95,7 +95,7 @@ Your browser does not support the audio element.
 Finally, a booming bass line drives through the song on every quarter note. The notes played by this bass are mapped to the average recorded temperature for each month of the study. Again, I used the same mapping scale as the insect abundance: higher notes = higher numbers. The bass line is a good way to keep track of the changing seasons: ascending notes typically represent the transition into spring and summer. As the song progresses, you the bass line sounds more and more prominent. It's not that the bass is getting louder; it's the absence of those piercing high notes from the synth lead.
 
 <audio controls>
-  <source src="../assets/audioloud_numbers/bass.wav" type="audio/wav">
+  <source src="../assets/audio/loud_numbers/bass.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 <br>
