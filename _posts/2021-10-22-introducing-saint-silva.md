@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Experiments in sound
-subtitle: The beginning of saint silva.
+subtitle: The beginning of Saint Silva
 tags: [note]
 ---
+
 Introducing *Saint Silva*, a new ambient musical project with a first EP.
 
 <!-- start main content -->
