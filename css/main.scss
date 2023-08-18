@@ -68,7 +68,7 @@ code {
         font-size: 32px;
         color: #272727;
         display: inline-block;
-        font-weight: 500;
+        font-weight: 300;
     }
 }
 
@@ -80,17 +80,18 @@ code {
         max-width: 500px;
         color: #272727;
         display: inline-block;
-        font-size: 30px;
+        font-size: 26px;
         font-weight: 300;
     }
     .details{
         @extend .pull-right;
         text-align: right;
         margin-left: 20px;
-        font-size: 18px;
+        font-size: 16px;
     }
     .subtitle{
         max-width: 500px;
+        font-size: 16px
     }
 }
 
