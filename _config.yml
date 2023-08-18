@@ -1,4 +1,4 @@
-title: Saint Silva
+title: saint silva
 author: Ben Dexter Cooley
 subtitle: electronic music & sound
 
@@ -19,9 +19,9 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "About"
+ - name: "about"
    link: "about"
- - name: "Shows"
+ - name: "shows"
    link: "shows"
- - name: IG
+ - name: ig
    absolute-link: "https://www.instagram.com/st.silva.music/"
