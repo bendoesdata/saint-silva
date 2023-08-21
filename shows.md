@@ -3,17 +3,20 @@ layout: default
 title: Shows
 ---
 
-## Upcoming
+*For booking requests, email bendextermusic at gmail dot com.*
 
-**Mothership Art Market** *Aug 20, 2023* 
+<!-- ## Upcoming -->
 
-Location: 19 Church St. Burlington, VT
+## Previous
+
+
+**Mothership Art Market** // *Aug 20, 2023* // Mothership Arts
 
 Improvisational electronic performance at Mothership Art Market.
 
-## Past
+---
 
-**"Call Shore"** - *Aug 11, 2023*
+**"Call Shore"** // *Aug 11, 2023* // The Phoenix Art Gallery
 
 Improvisational performance responding to an artist lecture at the closing reception of [The Phoenix Art gallery](https://thephoenixvt.com/events-calendar/2023/8/11/phoenix-talks-steve-budington-amp-saint-silva). Event description:
 
@@ -21,7 +24,7 @@ Improvisational performance responding to an artist lecture at the closing recep
 
 ---
 
-**Autumn Records** - *June 24, 2023*
+**Autumn Records** // *June 24, 2023* // Autumn Records
 
 Live electronic set at [Autumn Records](https://www.autumnrecordsvt.com/) in Winooski, VT. Video recording of performance available [here](https://youtu.be/Zbh9wtCPIus).
 
