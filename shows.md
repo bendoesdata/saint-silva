@@ -5,7 +5,13 @@ title: Shows
 
 *For booking requests, email bendextermusic at gmail dot com.*
 
-<!-- ## Upcoming -->
+## Upcoming
+
+**Phoenix Art Gallery w Matthew Delligatti** // *Sep 6, 2023* // Phoenix Gallery, Waterbury VT
+
+Live music w [Matthew Deligatti](https://www.matthewdelligatti.com/). Doors at 7pm, $10 cover.
+
+---
 
 ## Previous
 
