@@ -5,7 +5,9 @@ title: Shows
 
 ## Upcoming
 
-*October dates TBA. For booking requests, email bendextermusic at gmail dot com.*
+### **Starling Symphony** // *Oct 20, 2023* // Phoenix Gallery, Waterbury VT
+
+Launch event for artist Trystan Bates' *Starling Symphony* Capsule Collection. Musical performance will be an original composition in response to the five movements present in the *Starling Symphony* artwork, currently on display at The Phoenix Gallery through November.
 
 ## Previous
 
