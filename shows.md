@@ -9,6 +9,10 @@ title: Shows
 
 ## Previous
 
+### **Bat Bazaar** // *4pm on Oct 29, 2023* // 19 Church St, Burlington VT
+
+Spooky ambient performance at the Mothership *Bat Bazaar*, a Haloween themed market and art experience.
+
 ### **Starling Symphony** // *Oct 20, 2023* // Phoenix Gallery, Waterbury VT
 
 Launch event for artist Trystan Bates' *Starling Symphony* Capsule Collection. Musical performance will be an original composition in response to the five movements present in the *Starling Symphony* artwork, currently on display at The Phoenix Gallery through November.
