@@ -5,12 +5,12 @@ subtitle: Liner notes for the making of Cascades, out now on Histamine Tapes.
 tags: [note, release]
 ---
 
-![Loud Numbers remix album cover](../assets/antihistamine-rock-comp.png)
-<figcaption style="font-style: italic; margin-top: -20px">Antihistamine 2023 (HT098) is out now on <a href="https://histaminetapes.bandcamp.com/album/antihistamine-2023-ht098">Bandcamp</a>.</figcaption>
+![image of rocks for Cascades single album art](../assets/cascades.jpg)
+<figcaption style="font-style: italic; margin-top: -20px">"Cascades" was composed for the Antihistamine 2023 (HT098) compilation, out now on Bandcamp.</figcaption>
 
 ---
 
-I'm excited to announce a new song release today, [*Cascades*](https://histaminetapes.bandcamp.com/album/antihistamine-2023-ht098), courtesy of Histamine Tapes. This is a pay what you want compilation, and any money made from the compilation will be used to cover HT's operating costs for the next year, and go into a pool to donate to local charities.  
+I'm excited to announce a new song release today, [*Cascades*](https://saintsilva.bandcamp.com/track/cascades), courtesy of Histamine Tapes. The [entire compilation](https://histaminetapes.bandcamp.com/album/antihistamine-2023-ht098) is pay what you want, and any money made from the compilation will be used to cover HT's operating costs for the next year, and go into a pool to donate to local charities. You can find my piece, Cascades, [here](https://saintsilva.bandcamp.com/track/cascades).
 
 Each year Histamine Tapes, an experimental tape label our of Montepelier VT, does a compilation release under a different theme. This year's prompt was "rocks". The rules were simple: 
 1. the song must use rock sounds 
