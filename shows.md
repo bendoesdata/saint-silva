@@ -7,13 +7,17 @@ title: Shows
 
 ## Upcoming
 
-### **Willverine x Saint Silva (Duo Set)** 
+### **Willverine x Saint Silva (Duo Set) - 02/7/2023 // 7pm** 
 
-*02/7/2023 at 7pm // Wallflower Collective, Burlington VT*
+*Wallflower Collective, Burlington VT*
 
-### **Matthew Ryals, Saint Silva** 
+### **Matthew Ryals, Saint Silva - 02/18/2024 // 7pm** 
 
-*02/18/2024 // Autumn Records, Winooski VT*
+*Autumn Records, Winooski VT*
+
+<br>
+<br>
+<br>
 
 ## Previous
 
