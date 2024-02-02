@@ -3,13 +3,17 @@ layout: default
 title: Shows
 ---
 
-## Upcoming
-
 *For show requests, please email bendextermusic at gmail dot com*
+
+## Upcoming
 
 ### **Willverine x Saint Silva (Duo Set)** 
 
-*7pm on 2/7/2023 // Wallflower Collective, Burlington VT*
+*02/7/2023 at 7pm // Wallflower Collective, Burlington VT*
+
+### **Matthew Ryals, Saint Silva** 
+
+*02/18/2024 // Autumn Records, Winooski VT*
 
 ## Previous
 
