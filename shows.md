@@ -7,6 +7,26 @@ title: Shows
 
 ## Upcoming
 
+### **ETHEREAL BLOOM - 03/09/2024 // 7pm** 
+
+*Spiral House, 19 Church St, Burlington VT (2nd floor)*
+
+An evening of ambient music, light, & sound feat. music from St Silva, Silence_Castor, Go Outside, Frogsynth, and Stephen Scuderi. More details [here](https://www.instagram.com/p/C3xui7BuNTY/).
+
+### **Ceremonial Abyss, St. Silva (more TBA) - 04/05/2024 // 7pm** 
+
+*Spiral House, 19 Church St, Burlington VT (2nd floor)*
+
+### **St. Silva, Burial Woods, Acacia Bridge (more TBA) - 04/18/2024 // 7pm** 
+
+*Despacito, Burlington VT*
+
+<br>
+<br>
+<br>
+
+## Previous
+
 ### **Willverine x Saint Silva (Duo Set) - 02/7/2023 // 7pm** 
 
 *Wallflower Collective, Burlington VT*
@@ -14,12 +34,6 @@ title: Shows
 ### **Matthew Ryals, Saint Silva - 02/18/2024 // 7pm** 
 
 *Autumn Records, Winooski VT*
-
-<br>
-<br>
-<br>
-
-## Previous
 
 ### **Holiday Market** 
 *4pm on Dec 16, 2023 // 19 Church St, Burlington VT*
