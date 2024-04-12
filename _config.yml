@@ -1,4 +1,4 @@
-title: ST. SILVA
+title: St.   Silva
 author: Ben Dexter Cooley
 subtitle: electronic music & sound
 
@@ -23,5 +23,7 @@ navbar:
    link: "about"
  - name: "shows"
    link: "shows"
+ - name: bandcamp
+   absolute-link: "https://stsilva.bandcamp.com/"
  - name: instagram
    absolute-link: "https://www.instagram.com/st.silva.music/"
