@@ -23,6 +23,8 @@ navbar:
    link: "about"
  - name: "shows"
    link: "shows"
+ - name: "links"
+   link: "links"
  - name: bandcamp
    absolute-link: "https://stsilva.bandcamp.com/"
  - name: instagram

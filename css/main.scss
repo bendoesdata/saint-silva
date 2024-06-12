@@ -321,3 +321,26 @@ table tr th :first-child, table tr td :first-child {
 table tr th :last-child, table tr td :last-child {
     margin: 0;
 }
+
+.web-links {
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 30px
+}
+
+.web-link-item {
+    border: 1px solid rgba(111, 132, 35, 0.2);
+    padding: 10px 20px;
+    max-width: 400px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+a.web-link-item {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.web-link-item:hover {
+    background-color: rgba(111, 132, 35, 0.2);
+}
