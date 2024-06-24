@@ -7,10 +7,6 @@ title: Shows
 
 ## Upcoming
 
-#### **ETHEREAL BLOOM: Marie Hamilton, Tom Pearo, St. Silva x Coppermind (album release) - 06/21/2024 // 8pm** 
-
-*Spiral House, 19 Church St, Burlington VT (2nd floor)*
-
 #### **Paralleling Sound Installation & Performance - 07/13/2024 // 4-8pm** 
 
 *The Phoenix, Waterbury VT*
@@ -24,6 +20,11 @@ title: Shows
 <br>
 
 ## Previous
+
+
+#### **ETHEREAL BLOOM: Marie Hamilton, Tom Pearo, St. Silva x Coppermind (album release) - 06/21/2024 // 8pm** 
+
+*Spiral House, 19 Church St, Burlington VT (2nd floor)*
 
 #### **ETHEREAL BLOOM: Ceremonial Abyss, St. Silva, ouzkxqlzn, Adaline - 04/05/2024 // 7pm** 
 

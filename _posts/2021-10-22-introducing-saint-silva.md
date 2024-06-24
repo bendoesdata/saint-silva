@@ -11,7 +11,7 @@ Introducing *Saint Silva*, a new ambient musical project with a first EP.
 
 ![Tiny album cover](../assets/tiny-cover.jpeg)
 
-Today I released my first EP under the moniker *[Saint Silva](https://saintsilva.bandcamp.com/releases)*, exclusively [here on Bandcamp](https://saintsilva.bandcamp.com/releases) (all proceeds go to IEN). I have been thinking about this project for a few months now, and finally got a chance to put some weight behind it. This is the first time I am actually writing about *why* I wanted to start this in the first place.
+Today I released my first EP under the moniker *[St. Silva](https://stsilva.bandcamp.com/releases)*, exclusively [here on Bandcamp](https://stsilva.bandcamp.com/releases) (all proceeds go to IEN). I have been thinking about this project for a few months now, and finally got a chance to put some weight behind it. This is the first time I am actually writing about *why* I wanted to start this in the first place.
 
 There's an inherent risk in starting new musical projects; they feel exciting at first, but quickly fizzle out and die. At the moment I am juggling 3-4 different musical projects, all with different types of styles/sounds, and all at various levels of "readiness" to share with the world. *Saint Silva* is my way of granting permission, to myself, to experiment freely with the ideas I am currently most enamored by.
 
