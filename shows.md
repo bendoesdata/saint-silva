@@ -7,6 +7,16 @@ title: Shows
 
 ## Upcoming
 
+#### **Strange Synth Night - 08/23/2024 // 7pm** 
+
+*Despacito, Burlington VT*
+
+<br>
+<br>
+<br>
+
+## Previous
+
 #### **Paralleling Sound Installation & Performance - 07/13/2024 // 4-8pm** 
 
 *The Phoenix, Waterbury VT*
@@ -14,12 +24,6 @@ title: Shows
 #### **Kristina Warren, St. Silva (more TBA) - 07/14/2024 // 7pm** 
 
 *Burlington City Arts, Burlington VT*
-
-<br>
-<br>
-<br>
-
-## Previous
 
 
 #### **ETHEREAL BLOOM: Marie Hamilton, Tom Pearo, St. Silva x Coppermind (album release) - 06/21/2024 // 8pm** 
