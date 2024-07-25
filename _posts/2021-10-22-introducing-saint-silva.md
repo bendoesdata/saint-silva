@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Experiments in sound
-subtitle: The beginning of Saint Silva
+subtitle: The beginning of St Silva
 tags: [note]
 ---
 
