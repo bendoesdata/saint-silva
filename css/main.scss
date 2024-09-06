@@ -17,7 +17,7 @@ body {
     background-color: #ffffff;
     color: #333333;
     min-height: 100%;
-    font-weight: 200;
+    font-weight: 300;
 }
 a {
     text-decoration: underline;
@@ -119,6 +119,11 @@ code {
 .page-subtitle{
     text-align: center;
     margin-bottom: 1em;
+}
+
+figcaption {
+    margin-bottom: 20px;
+    font-size: 16px
 }
 
 // footer
@@ -257,7 +262,7 @@ code {
     }
     img {
         text-align: center;
-        margin: 10px 10px 10px 10px;
+        margin: 10px auto;
         width: 100%
     }
 
