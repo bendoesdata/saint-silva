@@ -2,7 +2,7 @@
 layout: post
 title: A sonification remix
 subtitle: Liner notes for a Loud Numbers remix "End of the Road"
-tags: [note, release]
+tags: [release, sonification]
 ---
 
 Liner notes for a new data sonification remix of the episode "End of the Road" by Loud Numbers.

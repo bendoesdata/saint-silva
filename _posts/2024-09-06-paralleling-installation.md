@@ -3,6 +3,7 @@ layout: post
 title: Paralleling - interactive sound installation
 subtitle: An evolving soundscape that responded to a community collage piece
 tags: [sound, installation, release]
+date: Sep 06, 2024
 ---
 
 
