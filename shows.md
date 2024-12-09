@@ -7,15 +7,30 @@ title: Shows
 
 ## Upcoming
 
-#### **Strange Synth Night - 08/23/2024 // 7pm** 
+#### inkling - 12/31/2024 from 1-4pm // Main St Landing
 
-*Despacito, Burlington VT*
+Live ambient scoring for "inkling" art exhibit in collaboration with Vanish Works. 
+
+#### Dancer in the Loop - 12/31/2024 // 5-7pm // BCA 2nd floor
+
+Interactive sound and visual installation for Burlington's Highlight NYE celebration. 
+
+#### "Generative Tree" Gallery Opening - 01/10/2025 at 7pm // Phoenix, Waterbury VT
+
+#### SYNTHFEST - 01/11/2025 at 6pm // Stage 33 Live, Bellows Falls, VT
+
+#### Ethereal Bloom - 01/31/2025 at 7pm // Spiral House
+
 
 <br>
 <br>
 <br>
 
 ## Previous
+
+#### **Strange Synth Night - 08/23/2024 // 7pm** 
+
+*Despacito, Burlington VT*
 
 #### **Paralleling Sound Installation & Performance - 07/13/2024 // 4-8pm** 
 
