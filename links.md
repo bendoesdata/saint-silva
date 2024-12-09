@@ -7,6 +7,13 @@ title: web links
 <br>
 <div class="web-links">
 
+<a class="web-link-item" href="https://youtu.be/uLOvgdi-hN0?si=YhBVZjoTwGiHtf0t">Carrington visualizer</a>
+
+
+<br>
+<br>
+<br>
+
 <a class="web-link-item" href="https://camembertelectrique.bandcamp.com/album/the-carrington-event">Carrington Event</a>
 
 
