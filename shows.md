@@ -7,19 +7,23 @@ title: Shows
 
 ## Upcoming
 
-#### inkling - 12/31/2024 from 1-4pm // Main St Landing
+### Dec 2024
 
-Live ambient scoring for "inkling" art exhibit in collaboration with Vanish Works. 
+#### **inkling** - 12.31 from 1-4pm // Main St Landing
 
-#### Dancer in the Loop - 12/31/2024 // 5-7pm // BCA 2nd floor
+*Live ambient scoring for "inkling" art exhibit in collaboration with Vanish Works.*
 
-Interactive sound and visual installation for Burlington's Highlight NYE celebration. 
+#### **Dancer in the Loop** - 12.31 from 5-7pm // BCA 2nd floor
 
-#### "Generative Tree" Gallery Opening - 01/10/2025 at 7pm // Phoenix, Waterbury VT
+*Interactive sound and visual installation for Burlington's Highlight NYE celebration.*
 
-#### SYNTHFEST - 01/11/2025 at 6pm // Stage 33 Live, Bellows Falls, VT
+### Jan 2025
 
-#### Ethereal Bloom - 01/31/2025 at 7pm // Spiral House
+#### **"Generative Tree" Gallery Opening** - 01.10 at 7pm // Phoenix, Waterbury VT
+
+#### **SYNTHFEST** - 01.11 at 6pm // Stage 33 Live, Bellows Falls, VT
+
+#### **Ethereal Bloom** - 01.31 at 7pm // Spiral House
 
 
 <br>
