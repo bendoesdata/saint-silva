@@ -1,4 +1,4 @@
-I"�)<p>Liner notes for a new data sonification remix of the episode “End of the Road” by Loud Numbers.</p>
+I"�)<p>Liner notes for a new data sonification remix of the episode “End of the Road” by Loud Numbers.</p>
 
 <!-- start main content -->
 
@@ -102,7 +102,7 @@ Your browser does not support the audio element.
 
 <ul>
   <li>data processed using Python in a Google Colab notebook</li>
-  <li>translated data into musical notes using <code class="highlighter-rouge">miditime</code> library and with help from the <a href="https://revealnews.org/blog/turn-your-data-into-sound-using-our-new-miditime-library/">this Reveal News tutorial</a></li>
+  <li>translated data into musical notes using <code class="language-plaintext highlighter-rouge">miditime</code> library and with help from the <a href="https://revealnews.org/blog/turn-your-data-into-sound-using-our-new-miditime-library/">this Reveal News tutorial</a></li>
   <li>instruments created and parameters automated in Ableton Live</li>
   <li>mixed and mastered in Ableton Live</li>
 </ul>
