@@ -1,7 +1,4 @@
 [build]
-  command = "jekyll build"
+  command = "npm run build"
   publish = "_site"
-
-[build.environment]
-  RUBY_VERSION = "3.1.4"
-  BUNDLER_VERSION = "2.4.22"
+  node_version = "18"
