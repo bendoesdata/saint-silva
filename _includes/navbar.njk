@@ -1,0 +1,9 @@
+<nav>
+    <a href="/" class="site-title">{{ metadata.title }}</a>
+    <br>
+    <ul>
+        {% for item in navigation.items %}
+            <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+        {% endfor %}
+    </ul>
+</nav>
