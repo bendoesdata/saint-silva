@@ -1,5 +1,4 @@
 {
-  "layout": "post.njk",
-  "permalink": "/{{ page.fileSlug }}/",
-  "tags": "post"
-}
+    "permalink": "/{{ date | formatDate }}-{{ page.fileSlug }}/",
+    "layout": "post.njk"
+  }
