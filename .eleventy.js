@@ -24,7 +24,10 @@ module.exports = function(eleventyConfig) {
   
   // Create posts collection
   eleventyConfig.addCollection("posts", function(collection) {
-    return collection.getFilteredByGlob("posts/*.md").sort((a, b) => {
+    return collection.getFilteredByGlob("posts/*.md").map(post => {
+      post.data.permalink = `${post.date.toISOString().split('T')[0]}-${post.fileSlug}/`;
+      return post;
+    }).sort((a, b) => {
       return b.date - a.date;
     });
   });
