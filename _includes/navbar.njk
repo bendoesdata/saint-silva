@@ -1,7 +1,9 @@
 <nav>
-    <a href="/" class="site-title">{{ metadata.title }}</a>
+    <a href="/" class="site-title">
+        <img style="max-width: 800px" src="/assets/silva-header.png" alt="{{ metadata.title }}">
+    </a>
     <br>
-    <ul>
+    <ul class="nav-items">
         {% for item in navigation.items %}
             <li><a href="{{ item.url }}">{{ item.name }}</a></li>
         {% endfor %}
