@@ -102,6 +102,14 @@ nav .site-title{
     margin-bottom:0.25em;
 }
 
+.forager-container {
+    background-image: url('/assets/forager-cover.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 1200px;
+    width: 100%
+}
+
 .post-card .title{
     max-width: 500px;
     color: #272727;
