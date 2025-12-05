@@ -2,7 +2,7 @@
 layout: post.njk
 title: Reviving a newsletter
 subtitle: in hopes of detaching further from social media
-tags: ['udpate']
+tags: ['update']
 date: 2025-12-04
 ---
 
