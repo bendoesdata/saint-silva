@@ -13,7 +13,7 @@ Liner notes for a new data sonification remix of the episode "End of the Road" b
 ![Loud Numbers remix album cover](../assets/loud_numbers_remix.png)
 <figcaption style="font-style: italic; margin-top: -20px">The album art for this remix contains an added layer of meaning: data is encoded in the "spikes" reaching from left to right, representing the declining trend.</figcaption>
 
-Today I'm happy to finally release a collaboration with [Loud Numbers](https://www.loudnumbers.net/), a data sonification podcast co-hosted by my friend [Duncan Geere](https://www.duncangeere.com/). After [my first release](https://saintsilva.bandcamp.com/) as *Saint Silva* last year, Duncan approached me to see if I'd be interested in doing a remix of one of their sonification tracks. Of course, I said yes.
+Today I'm happy to finally release a collaboration with [Loud Numbers](https://www.loudnumbers.net/), a data sonification podcast co-hosted by my friend [Duncan Geere](https://www.duncangeere.com/). After [my first release](https://saintsilva.bandcamp.com/) as *St. Silva* last year, Duncan approached me to see if I'd be interested in doing a remix of one of their sonification tracks. These are notes on how the piece came together. You can listen to my take on "The End of the Road" [here](https://loudnumbers.bandcamp.com/album/season-one-remixes).
 
 <aside style="float: right; font-style: italic; width: 250px; padding: 10px">
   Liner notes (also sleeve notes or album notes) are the writings found on the sleeves of LP record albums and in booklets which come inserted into the compact disc jewel case or the equivalent packaging for cassettes<a href="https://en.wikipedia.org/wiki/Liner_notes" target="_blank">(Wikipedia)</a>.
