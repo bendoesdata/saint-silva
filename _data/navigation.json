@@ -1,11 +1,15 @@
 {
     "items": [
       {
-        "name": "Home",
+        "name": "HOME",
         "url": "/"
       },
       {
-        "name": "About",
+        "name": "DISCOGRAPHY",
+        "url": "/releases/"
+      },
+      {
+        "name": "ABOUT  ",
         "url": "/about/"
       }
     ]

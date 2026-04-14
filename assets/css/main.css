@@ -8,6 +8,21 @@ body {
     min-height: 100%;
     font-weight: 300;
 }
+
+h1, h2, h3, h4 {
+    color: #717e4d;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+h3 a {
+    color: #717e4d;
+}
+
+h3 a:visited {
+    color: #717e4d;
+}
+
 a {
     text-decoration: underline;
     color: #333333;
@@ -121,7 +136,6 @@ nav .site-title{
     color: #272727;
     display: inline-block;
     font-size: 20px;
-    font-weight: 300;
 }
 .post-card .details{
     text-align: right;
@@ -233,7 +247,6 @@ time {
 h1, h2, h3, h4 {
     margin-block-start: 2em;
     margin-block-end: 0em;
-    font-weight: 300;
     margin-bottom: 6px;
 }
 
@@ -401,4 +414,29 @@ a.web-link-item {
 
 .web-link-item:hover {
     background-color: rgba(111, 132, 35, 0.2);
+}
+
+.two-col {
+    display: flex;
+    gap: 20px;
+}
+
+.two-col p {
+    margin-bottom: 0px
+}
+
+.release-container h3 {
+    padding: 8px;
+    font-weight: 600
+}
+
+.release-container p {
+    margin-bottom: 0px;
+    line-height: 1;
+}
+
+@media (max-width: 600px) {
+    .two-col {
+        display: block;
+    }
 }
