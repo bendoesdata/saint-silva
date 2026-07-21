@@ -447,3 +447,26 @@ a.web-link-item {
         display: block;
     }
 }
+
+.centered-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px; /* Adjust the gap between buttons as needed */
+    margin-bottom: 20px; /* Optional: Add some space below the buttons */
+}
+
+.centered-buttons button {
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    border: solid 1px #717e4d; /* Adjust the border color as needed */
+    background-color: white; /* Adjust the button color as needed */
+    color: #717e4d; /* Adjust the text color as needed */
+    border-radius: 4px; /* Optional: Add rounded corners */
+}
+
+.centered-buttons button:hover {
+    background-color: #717e4d; /* Adjust the hover background color as needed */
+    color: white; /* Adjust the hover text color as needed */
+}
